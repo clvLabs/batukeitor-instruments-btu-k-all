@@ -1,0 +1,171 @@
+# Batukeitor instruments file
+instruments:
+
+  MT:
+    name: "Metrónomo"
+    samples:
+      "X": "MT_hi.mp3"
+      "-": "MT_lo.mp3"
+      "1": "MT_hi.mp3"
+      "2": "MT_lo.mp3"
+      "3": "MT_lo.mp3"
+      "4": "MT_lo.mp3"
+      "5": "MT_lo.mp3"
+      "6": "MT_lo.mp3"
+      "7": "MT_lo.mp3"
+      "8": "MT_lo.mp3"
+
+  DD:
+    name: "Diretor"
+    samples:
+      "X": "AP_hi.mp3"
+      "-": "AP_lo.mp3"
+      "1": "AP_hi.mp3"
+      "2": "AP_hi.mp3"
+      "3": "AP_hi.mp3"
+      "4": "AP_hi.mp3"
+      "5": "AP_hi.mp3"
+      "6": "AP_hi.mp3"
+      "7": "AP_hi.mp3"
+      "8": "AP_hi.mp3"
+      "y": "AP_hi.mp3"
+
+  AP:
+    name: "Apito"
+    samples:
+      "X": "AP_hi.mp3"
+      "-": "AP_lo.mp3"
+
+  KAP:
+    name: "Apito (Kids)"
+    samples:
+      "X": "AP_hi.mp3"
+      "-": "AP_lo.mp3"
+
+  CH:
+    name: "Chocalho"
+    samples:
+      "X": "CH_hi.mp3"
+      "-": "CH_lo.mp3"
+      ".": "CH_lo2.mp3"
+
+  KCH:
+    name: "Chocalho (Kids)"
+    samples:
+      "X": "CH_hi.mp3"
+      "-": "CH_lo.mp3"
+      ".": "CH_lo2.mp3"
+
+  AG:
+    name: "Agogô"
+    samples:
+      "X": "AG_hi.mp3"
+      "-": "AG_lo.mp3"
+
+  KAG:
+    name: "Agogô (Kids)"
+    samples:
+      "X": "AG_hi.mp3"
+      "-": "AG_lo.mp3"
+
+  CC:
+    name: "Cincerro"
+    samples:
+      "X": "CC_hi.mp3"
+      "-": "CC_lo.mp3"
+
+  KCC:
+    name: "Cincerro (Kids)"
+    samples:
+      "X": "CC_hi.mp3"
+      "-": "CC_lo.mp3"
+
+  CV:
+    name: "Claves"
+    samples:
+      "X": "CV_hi.mp3"
+      "-": "CV_lo.mp3"
+
+  KCV:
+    name: "Claves (Kids)"
+    samples:
+      "X": "CV_hi.mp3"
+      "-": "CV_lo.mp3"
+
+  TB:
+    name: "Tamborim"
+    samples:
+      "X": "TB_hi.mp3"
+      "-": "TB_lo.mp3"
+
+  KTB:
+    name: "Tamborim (Kids)"
+    samples:
+      "X": "TB_hi.mp3"
+      "-": "TB_lo.mp3"
+
+  RP:
+    name: "Repenique"
+    samples:
+      "X": "RP_Drumstick_Center.mp3"
+      "x": "RP_Drumstick_Edge.mp3"
+      "-": "RP_Open_palm.mp3"
+      ".": "RP_Closed_palm.mp3"
+
+  KRP:
+    name: "Repenique (Kids)"
+    samples:
+      "X": "RP_Drumstick_Center.mp3"
+      "x": "RP_Drumstick_Edge.mp3"
+      "-": "RP_Open_palm.mp3"
+      ".": "RP_Closed_palm.mp3"
+
+  CX:
+    name: "Caixa"
+    samples:
+      "X": "CX_hi.mp3"
+      "-": "CX_lo.mp3"
+
+  KCX:
+    name: "Caixa (Kids)"
+    samples:
+      "X": "CX_hi.mp3"
+      "-": "CX_lo.mp3"
+
+  S3:
+    name: "Surdo 3ª"
+    samples:
+      "X": "S3_hi.mp3"
+      "-": "S3_lo.mp3"
+
+  KS3:
+    name: "Surdo 3ª (Kids)"
+    samples:
+      "X": "S3_hi.mp3"
+      "-": "S3_lo.mp3"
+
+  S2:
+    name: "Surdo 2ª"
+    samples:
+      "O": "S2_hi2.mp3"
+      "X": "S2_hi.mp3"
+      "-": "S2_lo.mp3"
+
+  KS2:
+    name: "Surdo 2ª (Kids)"
+    samples:
+      "O": "S2_hi2.mp3"
+      "X": "S2_hi.mp3"
+      "-": "S2_lo.mp3"
+
+  S1:
+    name: "Surdo 1ª"
+    samples:
+      "X": "S1_hi.mp3"
+      "-": "S1_lo.mp3"
+
+  KS1:
+    name: "Surdo 1ª (Kids)"
+    samples:
+      "X": "S1_hi.mp3"
+      "-": "S1_lo.mp3"
